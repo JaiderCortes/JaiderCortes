@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaiderCortes
-- 👀 I’m interested in programming in Java, PHP, MySQL. Create websites with HTML, CSS and Bootstrap.
-- 🌱 I’m currently learning FrontEnd technologies like JavaScript, Node JS, TypeScript, Angular, etc.
+- 👀 I’m interested in programming in C#, Python, MySQL, SQL Server, JavaScript. Create websites with HTML, CSS and Bootstrap.
+- 🌱 I’m currently learning FrontEnd technologies like React, Angular, etc.
 - 💞️ I’m looking to collaborate on a work, i would like to work at an enterprise.
 - 📫 How to reach me: you can communicate with me trought my personal email: jacortessa@gmail.com
 
