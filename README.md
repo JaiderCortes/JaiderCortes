@@ -16,7 +16,7 @@
 <h3>Contact Me :handshake:</h3>
 <a href="https://github.com/JaiderCortes/" target="_blank"><img src="https://img.shields.io/badge/-Jaider_Cortes?style=flat&logo=github&logoColor=%23F7F9F9&label=Jaider%20Cortes&labelColor=%230B0B0C&color=%23303437" alt="github"/></a>
 <a href="https://www.linkedin.com/in/jaidercortes" target="_blank"><img src="https://img.shields.io/badge/-Jaider_Cortes?style=flat&logo=linkedin&logoColor=%23F7F9F9&label=Jaider%20Alejandro%20Cortes%20Salazar&labelColor=%232980B9&color=%232471A3" alt="linkedin"></a>
-<a href="https://www.instagram.com/jaider_1102/" target="_blank"><img src="https://img.shields.io/badge/-Jaider_Cortes?style=flat&logo=instagram&logoColor=%23F7F9F9&label=Jaider%20Cortes&labelColor=%23B4165B&color=%2374093F"/></a>
+<a href="https://www.instagram.com/jaic_1102/" target="_blank"><img src="https://img.shields.io/badge/-Jaider_Cortes?style=flat&logo=instagram&logoColor=%23F7F9F9&label=Jaider%20Cortes&labelColor=%23B4165B&color=%2374093F"/></a>
 </div>
 
 
